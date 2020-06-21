@@ -1,6 +1,6 @@
 # Home Page Template
 
-![Project Image](https://github.com/ocoyoyix/homepagetemplate/blob/master/img/pageView.png?raw=true)
+![Project Image](https://github.com/ocoyoyix/homepagetemplate/blob/master/img/pageScreenshot.png?raw=true)
 
 ---
 
