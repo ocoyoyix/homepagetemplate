@@ -5,8 +5,7 @@
   --text-dark-color: #c5c6c7;
   --text-light-color: #ebfaff;
 }
-/* #000 */
-/* #999 */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -44,6 +43,7 @@ img {
   width: 100%;
 }
 
+/* Photo Background with Text and buttons  */
 .showcase {
   width: 100%;
   height: 93vh;
