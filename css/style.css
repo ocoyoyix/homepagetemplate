@@ -227,6 +227,7 @@ img {
 .table tbody tr:nth-child(odd) {
   background: #222;
 }
+
 /* Footer */
 .footer {
   max-width: 75%;
